@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Anyscale Learning For All (ALFA)
+Copyright (c) 2018, 2023 Anyscale Learning For All (ALFA)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

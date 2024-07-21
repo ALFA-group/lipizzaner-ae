@@ -1,0 +1,18 @@
+{
+    "visualize": "final",
+    "cell_evaluation": "epoch-node",
+    "population_size": 4,
+    "epochs": 10,
+    "batch_size": 2,
+    "learning_rate": 1e-05,
+    "output_dir": "out_binary_clustering",
+    "environment": "VariationalAutoencoderBinaryClustering",
+    "trials": 2,
+    "checkpoint_interval": 10,
+    "rng_seed": 1,
+    "dataset_name": "binary_clustering_10_100_1000",
+    "radius": 1,
+    "log_level": "debug",
+    "ae_quality_measures": "L1",
+    "solution_concept": "best_case"    
+   }
