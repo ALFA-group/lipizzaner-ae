@@ -1,0 +1,10 @@
+{
+    "population_size": [5, 10, 15, 25, 30],
+    "epochs": [400],
+    "dataset_name": ["binary_clustering_10_100_500","binary_clustering_10_100_1000","binary_clustering_10_100_4000",
+"binary_clustering_20_100_500","binary_clustering_20_100_1000","binary_clustering_20_100_4000",
+"binary_clustering_50_100_500","binary_clustering_50_100_1000","binary_clustering_50_100_4000"],
+    "environment": ["AutoencoderBinaryClustering", "DenoisingAutoencoderBinaryClustering", "VariationalAutoencoderBinaryClustering"],
+    "radius": [1,2,3],
+    "solution_concept": ["best_case", "best_case", "mean_expected_utility"]
+    }
